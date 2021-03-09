@@ -1,0 +1,1 @@
+My blog about electronics and etc. Based on [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) template.
