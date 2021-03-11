@@ -97,7 +97,7 @@ keywords: "fpga,asic,electronics,microcontroller,stm32,linux,xilinx,intel,verilo
 navbar-col: "#3498B8"
 navbar-text-col: "#EBEBEB"
 navbar-border-col: "#2B7E99"
-page-col: "#FFFFFF"
+page-col: "#EBEBEB"
 text-col: "#313538"
 link-col: "#008AFF"
 hover-col: "#4C5257"
