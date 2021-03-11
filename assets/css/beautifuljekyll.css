@@ -758,6 +758,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
 }
 
+#toc {
+    padding: 10px;
+    border: 1px solid #aaa;
+    display: inline-block !important;
+}
+
 /* --- Pagination --- */
 
 .pagination {

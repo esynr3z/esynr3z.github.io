@@ -95,14 +95,14 @@ keywords: "fpga,asic,electronics,microcontroller,stm32,linux,xilinx,intel,verilo
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#3498B8"
-navbar-text-col: "#EBEBEB"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#2B7E99"
-page-col: "#EBEBEB"
+page-col: "#FFFFFF"
 text-col: "#313538"
 link-col: "#008AFF"
 hover-col: "#4C5257"
 footer-col: "#3498B8"
-footer-text-col: "#EBEBEB"
+footer-text-col: "#FFFFFF"
 footer-link-col: "#313538"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
@@ -192,6 +192,7 @@ permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
+  parse_block_html: true
   input: GFM
 
 # Default YAML values (more information on Jekyll's site)
