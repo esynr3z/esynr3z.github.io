@@ -79,7 +79,7 @@ share-links-active:
 #url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 100
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -129,7 +129,7 @@ footer-link-col: "#313538"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-YQZ0QY5GEV"
 
 # Google Tag Manager ID
 #gtm: ""
