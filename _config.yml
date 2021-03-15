@@ -129,7 +129,7 @@ footer-link-col: "#313538"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-YQZ0QY5GEV"
+#google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -141,6 +141,9 @@ google_analytics: "G-YQZ0QY5GEV"
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
+
+# GoatCounter statistics
+goatcounter: "esynr3z"
 
 # --- Comments --- #
 
